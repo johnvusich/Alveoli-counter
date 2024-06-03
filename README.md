@@ -44,7 +44,7 @@ python analyze_alveoli.py --image_dir <IMAGE_DIRECTORY> --group1 <GROUP1_NAME> -
 
 To analyze images in the directory `path_to_images`, with comparison groups `CKO` and `NC`, and using colors `#90EE90` for `CKO` and `#0000FF` for `NC`, run the following command:
 ```
-python analyze_alveoli.py --image_dir "path_to_images" --group1 "CKO" --group2 "NC" --colors "#90EE90" "#0000FF"
+python analyze_alveoli.py --image_dir "Users/johnvusich/Desktop/PD5_wholemounts" --group1 "CKO" --group2 "NC" --colors "#90EE90" "#0000FF"
 ```
 
 ### Output

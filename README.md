@@ -14,6 +14,6 @@ This script analyzes alveoli counts in whole mount images. It subsamples multipl
 
 ## Installation
 
-##Install the required packages using pip
+## Install the required packages using pip
 pip install opencv-python numpy pandas scipy matplotlib seaborn
 

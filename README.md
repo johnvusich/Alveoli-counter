@@ -75,7 +75,7 @@ NC,100,10,0.05
 
 ### Plot
 
-The resulting plot `alveoli_counts_publication_quality.png` will look like this:
+The resulting plot `alveoli_counts.png` will look like this:
 
 ![Alveoli Counts by Condition](alveoli_counts_publication_quality.png)
 
